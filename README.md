@@ -13,3 +13,5 @@ Files
 index.html: Contains the structure of the calculator interface.
 index.js: Houses the outcome() function which handles the calculation logic.
 style.css: Defines the styles for the calculator interface.
+
+![image](https://github.com/AntonielCleyton/Project-CalculatorJS/assets/63554417/dd1084ed-3da5-42cf-babd-8fdff42b582b)
